@@ -15,5 +15,8 @@ shall be named.
 INSTALLATION
 ------------
 
+::
+
 pear channel-discover org.heigl pear.heigl.org
 pear install org.heigl/phpcs
+
