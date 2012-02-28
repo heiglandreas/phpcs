@@ -15,8 +15,10 @@ shall be named.
 INSTALLATION
 ------------
 
+Installation is fairly easy using *pear*
+
 ::
 
-pear channel-discover org.heigl pear.heigl.org
-pear install org.heigl/phpcs
+  pear channel-discover org.heigl pear.heigl.org
+  pear install org.heigl/phpcs
 
